@@ -7,3 +7,5 @@
      <img height="30px" src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku">
   </a>
 
+
+  ## Please don't use two step verification Telegram account otherwise the bot will not start  thanks ❤️
