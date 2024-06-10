@@ -9,3 +9,7 @@
 
 
   ## Please don't use two step verification Telegram account otherwise the bot will not start  thanks ❤️
+
+  ## please don't share this repo
+
+  ## bot mad by @St2Master 
